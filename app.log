@@ -1,0 +1,32 @@
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-098-253
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dell\\anaconda3\\Lib\\site-packages\\keras\\src\\engine\\training.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-098-253
+INFO:root:Recommended filenames: ['Dataset/3027.jpg', 'Dataset/3951.jpg', 'Dataset/3698.jpg', 'Dataset/3571.jpg']
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2024 12:09:53] "POST /recommend HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dell\\AppData\\Local\\Temp\\__autograph_generated_file_apeh4kb.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:tensorflow:From C:\Users\Dell\anaconda3\Lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 386-098-253
